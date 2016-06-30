@@ -5,7 +5,7 @@ def f():
     for line in f:
         print(line)
     print(len(line))
-   print()
+   print(f)
     if len(line) > len(long):
         long=line
         print("# =", len(long))
