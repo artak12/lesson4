@@ -1,0 +1,6 @@
+f =open('text.txt','a')
+f.write('This is Sparta\n')
+f.write('hisis the first line.')
+f.write('hisis the first line.\n')
+f.write('Nowwe are in the second line.\n')
+f.close()
